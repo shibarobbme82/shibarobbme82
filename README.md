@@ -8,3 +8,6 @@
 shibarobbme82/shibarobbme82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+can someone show me or lead me in the right direction on mining coin please?
